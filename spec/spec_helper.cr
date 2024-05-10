@@ -1,2 +1,2 @@
 require "spec"
-require "../src/bio-sequence"
+require "../src/bio/sequence"

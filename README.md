@@ -1,5 +1,7 @@
 # bio-sequence.cr
 
+Function to treat DNA sequence as Slice(UInt8).
+
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
