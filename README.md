@@ -1,6 +1,4 @@
-# bio-sequence
-
-TODO: Write a description here
+# bio-sequence.cr
 
 ## Installation
 
@@ -9,7 +7,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      bio-sequence:
-       github: your-github-user/bio-sequence
+       github: kojix2/bio-sequence.cr
    ```
 
 2. Run `shards install`
@@ -17,24 +15,18 @@ TODO: Write a description here
 ## Usage
 
 ```crystal
-require "bio-sequence"
+require "bio/sequence"
 ```
-
-TODO: Write usage instructions here
 
 ## Development
 
-TODO: Write development instructions here
+Object-oriented programming is a powerful tool for humans. However, class definitions tend to be irreversible. So, for the time being, let's try to define as few classes as possible and define only functions.
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/bio-sequence/fork>)
+1. Fork it (<https://github.com/kojix2/bio-sequence/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-## Contributors
-
-- [kojix2](https://github.com/your-github-user) - creator and maintainer
-# bio-sequence.cr
